@@ -90,11 +90,11 @@ Total Revenue, No Driver Found rate, Cancellation Rate, Non-completion rate, and
 
 Ride Activity Throughout the Day:
 Description: This line chart tracks the count of bookings, customer cancellations, and driver cancellations across each hour of the day, highlighting the morning and evening demand peaks.
-
+<br>
 [![image alt](https://github.com/Muustafa11/Ride-Hailing-Excel-Dashboard/blob/main/Ride%20Activity%20Throughout%20the%20Day.png?raw=true)](https://github.com/Muustafa11/Ride-Hailing-Excel-Dashboard/blob/main/Ride%20Activity%20Throughout%20the%20Day.png)
 
-
-
+<br>
+<br>
 Top 10 Pickup Locations:
 Description: This bar chart ranks the busiest pickup locations and includes an hour slicer, allowing the same chart to be filtered down to any specific hour.
 
