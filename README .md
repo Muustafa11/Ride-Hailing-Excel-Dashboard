@@ -97,6 +97,7 @@ Description: This line chart tracks the count of bookings, customer cancellation
 <br>
 
 Top 10 Pickup Locations:
+<br>
 Description: This bar chart ranks the busiest pickup locations and includes an hour slicer, allowing the same chart to be filtered down to any specific hour.
 <br>
 <br>
@@ -105,6 +106,7 @@ Description: This bar chart ranks the busiest pickup locations and includes an h
 <br>
 
 Vehicle Distribution:
+<br>
 Description: This bar chart shows the booking count for each vehicle type, with Auto and Go Mini leading demand.
 <br>
 <br>
@@ -113,6 +115,7 @@ Description: This bar chart shows the booking count for each vehicle type, with 
 <br>
 
 Customer Cancellation Reason:
+<br>
 Description: This pie chart shows the share of each cancellation reason given by customers across all cancelled rides.
 <br>
 <br>
@@ -121,6 +124,7 @@ Description: This pie chart shows the share of each cancellation reason given by
 <br>
 
 Customer Cancellation Reasons by Vehicle:
+<br>
 Description: This bar chart breaks down customer cancellation reasons (AC not working, change of plans, driver asked to cancel, driver not moving towards pickup, wrong address) across each vehicle type.
 <br>
 <br>
@@ -129,6 +133,7 @@ Description: This bar chart breaks down customer cancellation reasons (AC not wo
 <br>
 
 Drivers Cancellation Reason by Vehicle:
+<br>
 Description: This bar chart breaks down driver cancellation reasons (customer related issue, more than permitted people, personal and car related issues, customer coughing or sick) across each vehicle type.
 <br>
 <br>
@@ -137,6 +142,7 @@ Description: This bar chart breaks down driver cancellation reasons (customer re
 <br>
 
 Payment Methods Distribution:
+<br>
 Description: This pie chart shows the split of payment methods used, with UPI as the dominant method.
 <br>
 <br>
@@ -145,6 +151,7 @@ Description: This pie chart shows the split of payment methods used, with UPI as
 <br>
 
 Ride Final Status:
+<br>
 Description: This pie chart shows the share of rides that were completed versus cancelled by customer, cancelled by driver, incomplete, or had no driver found.
 <br>
 <br>
