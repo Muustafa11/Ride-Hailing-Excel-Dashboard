@@ -93,29 +93,68 @@ Description: This line chart tracks the count of bookings, customer cancellation
 <br>
 <br>
 ![image alt](https://github.com/Muustafa11/Ride-Hailing-Excel-Dashboard/blob/e2e6c5015f14ca8ef768453c0535cf1ee8941962/Ride%20Activity%20Through%20the%20Day.png)
+<br>
+<br>
 
-<br>
-<br>
 Top 10 Pickup Locations:
 Description: This bar chart ranks the busiest pickup locations and includes an hour slicer, allowing the same chart to be filtered down to any specific hour.
+<br>
+<br>
+![image alt](https://github.com/Muustafa11/Ride-Hailing-Excel-Dashboard/blob/be762a252b74f1a18f425c57e26c69fb7ab1ecf5/Top%2010%20Pickup%20Locations.png)
+<br>
+<br>
 
 Vehicle Distribution:
 Description: This bar chart shows the booking count for each vehicle type, with Auto and Go Mini leading demand.
-
-Customer Cancellation Reasons by Vehicle:
-Description: This bar chart breaks down customer cancellation reasons (AC not working, change of plans, driver asked to cancel, driver not moving towards pickup, wrong address) across each vehicle type.
-
-Drivers Cancellation Reason by Vehicle:
-Description: This bar chart breaks down driver cancellation reasons (customer related issue, more than permitted people, personal and car related issues, customer coughing or sick) across each vehicle type.
-
-Payment Methods Distribution:
-Description: This pie chart shows the split of payment methods used, with UPI as the dominant method.
-
-Ride Final Status:
-Description: This pie chart shows the share of rides that were completed versus cancelled by customer, cancelled by driver, incomplete, or had no driver found.
+<br>
+<br>
+![image alt](https://github.com/Muustafa11/Ride-Hailing-Excel-Dashboard/blob/be762a252b74f1a18f425c57e26c69fb7ab1ecf5/Vehicle%20Distribution.png)
+<br>
+<br>
 
 Customer Cancellation Reason:
 Description: This pie chart shows the share of each cancellation reason given by customers across all cancelled rides.
+<br>
+<br>
+![image alt](https://github.com/Muustafa11/Ride-Hailing-Excel-Dashboard/blob/be762a252b74f1a18f425c57e26c69fb7ab1ecf5/Customer%20Cancellation%20Reason.png)
+<br>
+<br>
+
+Customer Cancellation Reasons by Vehicle:
+Description: This bar chart breaks down customer cancellation reasons (AC not working, change of plans, driver asked to cancel, driver not moving towards pickup, wrong address) across each vehicle type.
+<br>
+<br>
+![image alt](https://github.com/Muustafa11/Ride-Hailing-Excel-Dashboard/blob/be762a252b74f1a18f425c57e26c69fb7ab1ecf5/Customer%20Cancellation%20Reasons%20by%20Vehicle.png)
+<br>
+<br>
+
+Drivers Cancellation Reason by Vehicle:
+Description: This bar chart breaks down driver cancellation reasons (customer related issue, more than permitted people, personal and car related issues, customer coughing or sick) across each vehicle type.
+<br>
+<br>
+![image alt](https://github.com/Muustafa11/Ride-Hailing-Excel-Dashboard/blob/be762a252b74f1a18f425c57e26c69fb7ab1ecf5/Driver%20Cancellation%20Reasons%20by%20Vehicle%20.png)
+<br>
+<br>
+
+Payment Methods Distribution:
+Description: This pie chart shows the split of payment methods used, with UPI as the dominant method.
+<br>
+<br>
+![image alt](https://github.com/Muustafa11/Ride-Hailing-Excel-Dashboard/blob/be762a252b74f1a18f425c57e26c69fb7ab1ecf5/Payment%20Methods%20Distribution.png)
+<br>
+<br>
+
+Ride Final Status:
+Description: This pie chart shows the share of rides that were completed versus cancelled by customer, cancelled by driver, incomplete, or had no driver found.
+<br>
+<br>
+![image alt](https://github.com/Muustafa11/Ride-Hailing-Excel-Dashboard/blob/be762a252b74f1a18f425c57e26c69fb7ab1ecf5/Ride%20Final%20Status.png)
+<br>
+<br>
+
+
+
+
 
 # Conclusion
 
