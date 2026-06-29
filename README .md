@@ -85,7 +85,10 @@ The following steps outline how the data was structured to support the Pivot Cha
 ### KPI Cards:
 
 Total Revenue, No Driver Found rate, Cancellation Rate, Non-completion rate, and Completion Rate are displayed as KPI cards at the top of the dashboard, giving an at-a-glance read on overall performance before drilling into any section.
-
+<br>
+![image alt](https://github.com/Muustafa11/Ride-Hailing-Excel-Dashboard/blob/ea2ea85e3b0c8522cd84897ae49316b1bfd1d810/KPI%20Cards.png)
+<br>
+<br>
 ### Charts:
 
 Ride Activity Throughout the Day:
