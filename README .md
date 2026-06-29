@@ -54,13 +54,32 @@ This dataset contains 15,000 rows and 21 original columns. The data was relative
 
 The dashboard is built on a single sheet using a Freeze Pane layout, so the KPI cards stay visible while the charts and tables are explored. It is organized into three sections:
 
-1-Overview: Total Revenue, No Driver Found rate, Cancellation Rate, Non-completion rate, and Completion Rate, shown as KPI cards at the top of every section.
 
-2-Ride Activity and Locations: Ride volume and cancellations throughout the day, alongside the top 10 pickup locations with an hour filter.
+### 1-Payment, Ride Final Status, and Cancellation Overview
+Payment method split, final ride status breakdown, and customer cancellation reasons.
+<br>
+<br>
+![image alt](https://github.com/Muustafa11/Ride-Hailing-Excel-Dashboard/blob/2cf113d5f2220bae9e5774aeb8ea208a1f872f69/Payment%2C%20Ride%20Final%20Status%2C%20and%20Cancellation%20Overview.png)
+<br>
+<br>
 
-3-Vehicle and Cancellation Breakdown: Vehicle distribution, and cancellation reasons by vehicle for both customers and drivers.
+### 2-Vehicle and Cancellation Breakdown
+Vehicle distribution, and cancellation reasons by vehicle for both customers and drivers.
+<br>
+<br>
+![image alt](https://github.com/Muustafa11/Ride-Hailing-Excel-Dashboard/blob/a3a48bc3b309cee1b1f6cc3d48b2505a6f7a0ac1/Vehicle%20and%20Cancellation%20Breakdown.png)
+<br>
+<br>
 
-4-Payment and Status Distribution: Payment method split, final ride status breakdown, and customer cancellation reasons.
+### 3-Ride Activity and Top 10 Pickup Locations
+
+Ride volume and cancellations throughout the day, alongside the top 10 pickup locations with an hour filter.
+<br>
+<br>
+![image alt](https://github.com/Muustafa11/Ride-Hailing-Excel-Dashboard/blob/05e4940d9dfd2f1e65a1935967d90e847b559c85/Ride%20Activity%20and%20Top%2010%20Pickup%20Locations.png)
+<br>
+<br>
+
 
 ## Data Preparation Steps
 
